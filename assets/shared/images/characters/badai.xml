@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="badai.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="DOWN0000" x="1932" y="2214" width="976" height="881" pivotX="0" pivotY="0"/>
+	<SubTexture name="IDLE0000" x="69" y="0" width="863" height="803" pivotX="0" pivotY="0"/>
+	<SubTexture name="IDLE0001" x="69" y="0" width="863" height="803"/>
+	<SubTexture name="IDLE0002" x="72" y="1083" width="826" height="786"/>
+	<SubTexture name="IDLE0003" x="72" y="1083" width="826" height="786"/>
+	<SubTexture name="IDLE0004" x="67" y="2182" width="836" height="768"/>
+	<SubTexture name="IDLE0005" x="67" y="2182" width="836" height="768"/>
+	<SubTexture name="LEFT0000" x="994" y="0" width="1194" height="903" pivotX="0" pivotY="0"/>
+	<SubTexture name="LEFT0001" x="994" y="0" width="1194" height="903"/>
+	<SubTexture name="LEFT0002" x="998" y="1120" width="1086" height="848"/>
+	<SubTexture name="LEFT0003" x="998" y="1120" width="1086" height="848"/>
+	<SubTexture name="RIGHT0000" x="2201" y="0" width="1131" height="1019" pivotX="0" pivotY="0"/>
+	<SubTexture name="RIGHT0001" x="2201" y="0" width="1131" height="1019"/>
+	<SubTexture name="RIGHT0002" x="2201" y="1150" width="1052" height="858"/>
+	<SubTexture name="RIGHT0003" x="2201" y="1150" width="1052" height="858"/>
+	<SubTexture name="UP0000" x="943" y="2166" width="859" height="1068" pivotX="607" pivotY="363"/>
+</TextureAtlas>
